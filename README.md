@@ -9,7 +9,7 @@
 ## About Me ✶  
 ▫ Always learning and exploring new technologies.  
 ▫ Currently learning advanced frameworks, cloud tools, and new languages.  
-▫ Passionate about merging technology with art.  
+▫ I like finding creative ways to merge technology and art.
 ▫ **Hobbies:** Music production, game development, and culinary experiments.  
 
 ---
