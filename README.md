@@ -1,6 +1,6 @@
-# Heelo world, I'm Mario | Software Developer
+# Hello world, I'm Mario
 
-Passionate about building scalable applications and innovative solutions.
+Passionate about technology, creativity and innovative solutions.
 
 ---
 
@@ -14,9 +14,10 @@ Passionate about building scalable applications and innovative solutions.
 - **Frameworks & Tools:** Spring Boot, Android Studio, Xcode, Git, Docker  
 - **Databases:** MySQL, PostgreSQL  
 
-## Projects
-- [Project 1](#) - Short description of your project.
-- [Project 2](#) - Another cool project.
+## Recent projects
+- [Techlab loans] - An Android application developed in **Kotlin** to manage and track loaned equipment in the university's technology lab.
+- [LiveChat] - A real-time chat application built with **Java** for sending and receiving messages.
+- [RankUp (Currently in Development)] - A dynamic ranking system for groups to compete, bet, and earn points through real-life challenges. Perfect for friends, teams, and classrooms. Made with **Kotlin**.
 
 ## Contact
 Feel free to connect on [LinkedIn](#) or email me at [your@email.com](mailto:your@email.com).
