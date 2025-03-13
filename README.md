@@ -9,10 +9,12 @@
 ## About Me ✶  
 ▫ Always learning and exploring new technologies.  
 ▫ Currently learning advanced frameworks, cloud tools, and new languages.  
-▫ I like finding creative ways to merge technology and art.
+▫ I like finding creative ways to merge technology and art.  
+
 ▫ **Hobbies:** Music production, game development, and culinary experiments.  
 
 ---
+
 
 ## Tech Stack ✶  
 
