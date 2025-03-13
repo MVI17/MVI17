@@ -38,7 +38,7 @@ A dynamic ranking system where groups can compete, bet, and earn points through 
 ---
 
 ## Contact ✶  
-Feel free to reach out for collaboration or just to chat about technology:  
+Feel free to reach out for professional inquiries or just to chat about technology:  
 ▫ [LinkedIn](https://www.linkedin.com/in/mariovazquez/)  
 ▫ [mariovazqueziniesta@gmail.com](mailto:mariovazqueziniesta@gmail.com)  
 
