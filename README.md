@@ -2,7 +2,8 @@
 
 <p align="center"><strong>Passionate about technology, creativity, and innovative solutions.</strong></p>
 
-![Blue Red Minimalist Corporate Business Social Media Management Plan Presentation (2)](https://github.com/user-attachments/assets/591fbaf6-c91c-4dd4-9269-aece121058e0)
+![Blue Red Minimalist Corporate Business Social Media Management Plan Presentation (3)](https://github.com/user-attachments/assets/d6ba135d-dd4e-4dcd-a29d-349687649105)
+
 
 ---
 
@@ -17,7 +18,8 @@
 ## Tech Stack ✶  
 
 **Languages:** Java, Kotlin, Swift, Python, SQL  
-**Frameworks & Tools:** Spring Boot, Android Studio, Xcode, Git, Docker, Firebase  
+**Frameworks & Tools:** Spring Boot, Android Studio, Xcode, Git, Docker, Firebase
+**Web Development:** HTML, CSS, JavaScript
 **Databases:** MySQL, MongoDB  
 **Methodologies:** Agile, Scrum  
 
