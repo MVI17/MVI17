@@ -1,7 +1,9 @@
 # Hello world, I'm Mario
 
 Passionate about technology, creativity and innovative solutions.
-![Blue Red Minimalist Corporate Business Social Media Management Plan Presentation](https://github.com/user-attachments/assets/63e057c3-6b19-47b6-8e72-67de9d1ef4fe)
+
+![Blue Red Minimalist Corporate Business Social Media Management Plan Presentation (1)](https://github.com/user-attachments/assets/49fd5c58-b4d5-4575-a21d-2d5b7932c5ea)
+
 
 ---
 
