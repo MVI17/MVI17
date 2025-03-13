@@ -10,7 +10,7 @@
 ▫ Always learning and exploring new technologies.  
 ▫ Currently learning advanced frameworks, cloud tools, and new languages.  
 ▫ Passionate about merging technology with art.  
-▫ ✦ Hobbies: Music production, game development, and culinary experiments.  
+▫ ✦Hobbies✦: Music production, game development, and culinary experiments.  
 
 ---
 
