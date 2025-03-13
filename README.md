@@ -2,7 +2,8 @@
 
 <p align="center">Passionate about technology, creativity and innovative solutions</p>
 
-![Blue Red Minimalist Corporate Business Social Media Management Plan Presentation (1)](https://github.com/user-attachments/assets/49fd5c58-b4d5-4575-a21d-2d5b7932c5ea)
+![Blue Red Minimalist Corporate Business Social Media Management Plan Presentation (2)](https://github.com/user-attachments/assets/591fbaf6-c91c-4dd4-9269-aece121058e0)
+
 
 
 ---
