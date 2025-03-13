@@ -8,9 +8,9 @@
 
 ## About Me ✶  
 ▫ Always learning and exploring new technologies.  
-▫ Focused on advanced frameworks, cloud tools, and emerging languages.  
+▫ Currently learning advanced frameworks, cloud tools, and new languages.  
 ▫ Passionate about merging technology with art.  
-▫ Hobbies: Music production, game development, and culinary experiments.  
+▫ ✦ Hobbies: Music production, game development, and culinary experiments.  
 
 ---
 
@@ -37,7 +37,7 @@ A dynamic ranking system where groups can compete, bet, and earn points through 
 ---
 
 ## Contact ✶  
-Let's connect:  
+Let's connect!:  
 ▫ [LinkedIn](https://www.linkedin.com/in/mariovazquez/)  
 ▫ [Email](mailto:mariovazqueziniesta@gmail.com)  
 
