@@ -34,7 +34,7 @@ An Android application developed in **Kotlin** to efficiently manage and track l
 A real-time chat application built with **Java**, enabling instant messaging and seamless communication.  
 
 ### ✦ RankUp _(Currently in Development)_  
-A dynamic ranking system where groups can compete, bet, and earn points through real-life challenges. Ideal for friends, teams, and classrooms. Built with **Kotlin**.  
+A dynamic ranking system where groups can compete and earn points through real-life challenges. Ideal for friends, teams, and classrooms. Built with **Kotlin**.  
 
 ---
 
